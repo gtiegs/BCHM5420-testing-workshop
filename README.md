@@ -6,8 +6,8 @@ A repository meant to be cloned onto your computer for the BCHM5420 Reproducibil
 ### Step 1: Set Up a Directory
 First, create a directory where you want to clone the test repository.
 ```bash
-mkdir -p test-workshop`
-`cd <path to test-workshop>`
+mkdir -p test-workshop
+cd <path to test-workshop>
 ```
 
 ### Step 2: Clone the Repository
